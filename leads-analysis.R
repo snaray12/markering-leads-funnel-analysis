@@ -1,4 +1,3 @@
-setwd("~/01_arena/12_R/markering-leads-funnel-analysis")
 
 # Read data
 
